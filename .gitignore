@@ -1,0 +1,19 @@
+# Compiled output
+out/
+*.class
+
+# macOS files
+.DS_Store
+
+# IntelliJ / IDE files
+.idea/
+*.iml
+
+# JavaFX runtime (if downloaded locally)
+javafx/
+
+# Logs
+*.log
+
+# Database backups (optional)
+*.db-journal

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.pgps.app.MainApp
+Class-Path: lib/sqlite-jdbc-3.45.1.0.jar lib/slf4j-api-1.7.36.jar lib/slf4j-nop-1.7.36.jar
+
+
+
+
